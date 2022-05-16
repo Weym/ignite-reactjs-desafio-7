@@ -48,7 +48,7 @@ export function ModalViewImage({
           color="pGray.50"
         >
           <Link href={imgUrl} target="_blank">
-            <a>Abrir original</a>
+            Abrir original
           </Link>
         </ModalFooter>
       </ModalContent>
